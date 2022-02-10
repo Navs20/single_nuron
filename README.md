@@ -1,4 +1,4 @@
 ## single_neuron
- simple single nuron(basic block of ml) in arduino
+ simple single neuron(basic block of ml) in arduino
  
 (not modular, contributions are freely accepted)
